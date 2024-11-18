@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AI-Gaurav
+- 👀  My proficiency in tools such as SQL, Python, Power BI ,Google Sheet , MS Excel , App script and VBA and Macros combined with my ability to communicate findings effectively, allows me to drive data-driven decision-making processes.
+- 🌱 I’m currently learning  Big Query and AWS
+- 💞️ I’m looking to collaborate on Project 
+- ⚡ The beloved GitHub mascot, the Octocat, was created by graphic designer Simon Oxley. The Octocat has become an iconic symbol of GitHub and is featured in various playful and creative forms throughout the platform
